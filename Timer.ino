@@ -1,7 +1,4 @@
 
-/* Read RFID Tag with RC522 RFID Reader
-    Made by miliohm.com
-*/
 
 #define BLYNK_PRINT Serial
 #include <ESP8266WiFi.h>
